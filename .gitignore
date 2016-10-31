@@ -1,0 +1,9 @@
+*.DS_Store
+*.sock
+*.pyc
+*.log
+*.backup
+
+venv/
+archive/
+__pycache__/
